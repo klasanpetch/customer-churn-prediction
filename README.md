@@ -91,7 +91,7 @@ Example business insight from force plot:
 ## Setup
 
 ```bash
-git clone https://github.com/klasanpetch/customer-churn-prediction
+git clone https://github.com/klasanpetch/customer-churn-prediction.git
 cd customer-churn-prediction
 uv sync
 jupyter notebook customer_churn_prediction.ipynb
